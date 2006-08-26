@@ -1,0 +1,16 @@
+--- paman-0.9.2/src/paman.desktop.orig	2006-06-21 01:35:19.000000000 +0200
++++ paman-0.9.2/src/paman.desktop	2006-08-26 22:16:57.643760000 +0200
+@@ -1,9 +1,12 @@
+ [Desktop Entry]
+ Encoding=UTF-8
+ Name=PulseAudio Manager
++Name[pl]=Zarz±dca PulseAudio
+ Comment=Manager your PulseAudio sound server.
++Comment[pl]=Zarz±dzanie serwerem d¼wiêku PulseAudio
+ Exec=paman
+ Icon=audio-card
+ StartupNotify=true
+ Type=Application
+-Categories=Application;AudioVideo;Audio;
++Categories=GTK;AudioVideo;Audio;
++# vi:encoding=utf-8
