@@ -4,9 +4,9 @@
  [Desktop Entry]
  Encoding=UTF-8
  Name=PulseAudio Manager
-+Name[pl]=Zarz±dca PulseAudio
++Name[pl]=ZarzÄ…dca PulseAudio
  Comment=Manager your PulseAudio sound server.
-+Comment[pl]=Zarz±dzanie serwerem d¼wiêku PulseAudio
++Comment[pl]=ZarzÄ…dzanie serwerem dÅºwiÄ™ku PulseAudio
  Exec=paman
  Icon=audio-card
  StartupNotify=true
