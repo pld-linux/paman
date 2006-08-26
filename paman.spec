@@ -4,7 +4,7 @@ Name:		paman
 Version:	0.9.2
 Release:	1
 License:	GPL v2+
-Group:		Applications/Sound
+Group:		X11/Applications/Sound
 Source0:	http://0pointer.de/lennart/projects/paman/%{name}-%{version}.tar.gz
 # Source0-md5:	87dcb41a2c3740eff2e33c094010bb40
 Patch0:		%{name}-desktop.patch
