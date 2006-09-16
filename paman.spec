@@ -1,18 +1,19 @@
 Summary:	PulseAudio Manager
 Summary(pl):	PulseAudio Manager - zarz±dca serwera d¼wiêku PulseAudio
 Name:		paman
-Version:	0.9.2
+Version:	0.9.3
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Sound
 Source0:	http://0pointer.de/lennart/projects/paman/%{name}-%{version}.tar.gz
-# Source0-md5:	87dcb41a2c3740eff2e33c094010bb40
+# Source0-md5:	5b475acbcf2613790b3497404f91fd48
 Patch0:		%{name}-desktop.patch
 URL:		http://0pointer.de/lennart/projects/paman/
 BuildRequires:	gtkmm-devel >= 2.4
 BuildRequires:	libglademm-devel >= 2.4
 BuildRequires:	pkgconfig
-BuildRequires:	pulseaudio-devel >= 0.9.2
+BuildRequires:	pulseaudio-devel >= 0.9.5
+Requires:	pulseaudio-libs >= 0.9.5
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
