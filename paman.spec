@@ -1,5 +1,5 @@
 Summary:	PulseAudio Manager
-Summary(pl):	PulseAudio Manager - zarz±dca serwera d¼wiêku PulseAudio
+Summary(pl.UTF-8):   PulseAudio Manager - zarzÄ…dca serwera dÅºwiÄ™ku PulseAudio
 Name:		paman
 Version:	0.9.3
 Release:	1
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 PulseAudio Manager (paman) is a simple GTK+ frontend for the
 PulseAudio sound server.
 
-%description -l pl
-PulseAudio Manager (paman) to prosty frontend GTK+ dla serwera d¼wiêku
+%description -l pl.UTF-8
+PulseAudio Manager (paman) to prosty frontend GTK+ dla serwera dÅºwiÄ™ku
 PulseAudio.
 
 %prep
