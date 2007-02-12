@@ -1,5 +1,5 @@
 Summary:	PulseAudio Manager
-Summary(pl.UTF-8):   PulseAudio Manager - zarządca serwera dźwięku PulseAudio
+Summary(pl.UTF-8):	PulseAudio Manager - zarządca serwera dźwięku PulseAudio
 Name:		paman
 Version:	0.9.3
 Release:	1
