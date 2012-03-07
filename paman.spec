@@ -2,7 +2,7 @@ Summary:	PulseAudio Manager
 Summary(pl.UTF-8):	PulseAudio Manager - zarządca serwera dźwięku PulseAudio
 Name:		paman
 Version:	0.9.4
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		X11/Applications/Sound
 Source0:	http://0pointer.de/lennart/projects/paman/%{name}-%{version}.tar.gz
